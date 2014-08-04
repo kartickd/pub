@@ -1,0 +1,26 @@
+﻿Installing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe
+Restoring event log to previous state for source MyService.
+Installing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Debug\myservice.exe

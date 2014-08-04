@@ -1,0 +1,21 @@
+﻿
+<div ng-view></div>
+<div data-ng-controller="SignalRAngularCtrl">
+    <div ng-init="disName='@ViewBag.DisplayName'"></div>
+    <div ng-init="grpName ='@ViewBag.GroupName'"></div>
+    <div  class="container" ng-show="isGroupJoined">
+       
+        <input type="text" ng-model="text" />
+        <input type="button" id="sendmessage" value="Send" ng-click="sendMessage()" />
+        <ul id="discussion">
+            <li ng-repeat="msg in chatMessages">{{msg.gname}} - {{msg.dname}} : {{msg.mes}}</li>
+        </ul>
+    </div>
+</div>
+@section scripts {
+    <script src="@Url.Content("~/Scripts/jquery.signalR-2.1.1.min.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/app/app.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/app/createRequestCtrl.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/app/myRequestCtrl.js")" type="text/javascript"></script>
+    <script src="@Url.Content("~/Scripts/app/myFunctionCtrl.js")" type="text/javascript"></script>
+}

@@ -1,0 +1,16 @@
+E:\Projects\TestProjects\WinService\WinService\bin\Release\WinService.exe.config
+E:\Projects\TestProjects\WinService\WinService\bin\Release\WinService.exe
+E:\Projects\TestProjects\WinService\WinService\bin\Release\WinService.pdb
+E:\Projects\TestProjects\WinService\WinService\bin\Release\EntityFramework.dll
+E:\Projects\TestProjects\WinService\WinService\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\TestProjects\WinService\WinService\bin\Release\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\TestProjects\WinService\WinService\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\TestProjects\WinService\WinService\bin\Release\EntityFramework.xml
+E:\Projects\TestProjects\WinService\WinService\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\TestProjects\WinService\WinService\bin\Release\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\TestProjects\WinService\WinService\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\TestProjects\WinService\WinService\obj\Release\WinService.csprojResolveAssemblyReference.cache
+E:\Projects\TestProjects\WinService\WinService\obj\Release\WinService.ProjectInstaller.resources
+E:\Projects\TestProjects\WinService\WinService\obj\Release\WinService.csproj.GenerateResource.Cache
+E:\Projects\TestProjects\WinService\WinService\obj\Release\WinService.exe
+E:\Projects\TestProjects\WinService\WinService\obj\Release\WinService.pdb

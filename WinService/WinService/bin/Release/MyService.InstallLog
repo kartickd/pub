@@ -1,0 +1,45 @@
+﻿Installing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.exe
+Installing service MyService...
+Creating EventLog source MyService in log Application...
+Rolling back assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\MyService.exe
+Restoring event log to previous state for source MyService.
+Installing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe
+Uninstalling assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Attempt to stop service MyService.
+Uninstalling assembly 'E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.InstallLog
+   assemblypath = E:\Projects\TestProjects\WinService\WinService\bin\Release\myservice.exe
+Removing EventLog source MyService.
+Warning: The source MyService is not registered on the local machine.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Attempt to stop service MyService.
